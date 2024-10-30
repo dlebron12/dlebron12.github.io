@@ -3,12 +3,14 @@ layout: page
 title: About ME
 permalink: /about/
 ---
-
-<p align="center">
-  <img src="https://github.com/dlebron12/dlebron12.github.io/images/dayanara.jpg" #alt="My-pic"/>
-</p>
-
-Wepa! Welcome to my Github Repo.
+<div align="center">
+  <br>
+  <img src="/images/dayanara.png" alt="mypicture" width="200"/>
+  <br>  
+  <p align="center">
+    <i>Welcome to my Data Science Portfolio</i>
+  </p>
+</div>
 
 **About Me**
 
