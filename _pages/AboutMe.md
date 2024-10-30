@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p align="center">
-  <img src="https://github.com/dlebron12/dlebron12.github.io/_images/dayanara.jpg" #alt="My-pic"/>
+  <img src="https://github.com/dlebron12/dlebron12.github.io/images/dayanara.jpg" #alt="My-pic"/>
 </p>
 
 Wepa! Welcome to my Github Repo.
