@@ -12,7 +12,6 @@ permalink: /about/
   </p>
 </div>
 
-
 **About Me**
 
 I was born and raised in Puerto Rico; and am a first-gen college student.  At a young age I became interested and passionate about mathematics - this being my favorite subject at school.  When the time came to decide what I wanted to do as a carreer going forward, my decisions where to study either Mathematics or Psychology as both topics were really appealing to me.  Participating in the Saturday Research Academy at the _Universidad Metropolitana_ in San Juan, P.R, I was able to do my first research in Biostatistics.  This was a pivotal moment in my life, as I learned that statistics applied to biology and medicine has an important and real life impact.
