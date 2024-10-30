@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div align="center">
   <br>
-  <img src="/images/dayanara.jpg" alt="mypicture" width="500"/>
+  <img src="/images/dayanara.jpg" alt="mypicture" width="200"/>
   <br>  
   <p align="center">
     <i>Welcome to my Data Science Portfolio</i>
