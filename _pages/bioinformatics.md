@@ -7,7 +7,7 @@ permalink: /bioinformatics/
 
 Customer facing script developed to extract reactivity values for a specific region of interest as stated in a bed file, and produce the necessary input files to produce the secondary structure in open-sourced folding algorithms.
 
-It can be found here: <https://github.com/dlebron12/eSHAPE_customer_toolkit/blob/01cd32a5db4c9e8a298b442b7bc4f5eba176f5be/eSHAPE/extract_eshape_reactivities.py> 
+It can be found here: [extract_eshape_reactivities.py](https://github.com/dlebron12/eSHAPE_customer_toolkit/blob/01cd32a5db4c9e8a298b442b7bc4f5eba176f5be/eSHAPE/extract_eshape_reactivities.py)
 
 ## BIOINFORMATICS SKILLS 
 
