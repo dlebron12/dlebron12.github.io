@@ -12,8 +12,6 @@ permalink: /about/
   </p>
 </div>
 
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
-<div class="elfsight-app-5d27afef-d9b8-4557-b828-a118b862d794" data-elfsight-app-lazy></div>
 
 **About Me**
 
