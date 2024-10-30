@@ -1,5 +1,8 @@
-
-# About Me: 
+---
+layout: page
+title: About ME
+permalink: /about/
+---
 
 #<p align="center">
 #  <img src="https://github.com/dlebron12/dlebron12.github.io/blob/3d14c2b84bee278aaa867eebdc1997116ced685c/73B075AD-253A-41F3-B8B6-D0BCAD43E5E6.jpg" #alt="My-pic"/>
