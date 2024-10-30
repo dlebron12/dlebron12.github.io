@@ -12,6 +12,13 @@ My second research was at the University of Iowa, Biostatistics Department where
 
 My third and fourth research were at the University of Alabama at their Statistical Genetics Department under the mentorship of Ana Vazquez.  This research focused on creating models to predict Type 2 Diabetes in patients accounting for their physical and genetic composition.  As a GWAS study, I analyzed data collected from a Affimetrix Chip to determine SNPs and markers being highlighted in Type 2 Diabetes patients and to see if these were also present in non-affected patients and how they played a role in increasing the odds of Type 2 diabetes GIVEN the patients exercise activity, blood pressure, cholesterol levels, gender and age.  Machine Learning Models such as Logistic Regression, Support Vector Machine and Neural Networks were used to test models.  All of the results are published in my paper here: [linktopaper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4362394/).
 
+After graduating from my masters in Data Science I served as a Data Analytics Teaching Assistant and Statistics Instructor at Trilogy Education now U2, helping a cohort of 25 students to kickstart their carreer into Data Analytics.  Here I taught SQL, Postgres, Tableu, Hypothesis Testing, Vizualization and Story Telling, VBA, Python and R. 
+
+And the biggest experience of them all was all the learning I received during my Masters in Statistics 
 
 ## Projects
 
+
+
+## SKILLS
+Python, R, Machine Learning (Classification and Clustering), GWAS, Experimental Design, SQL, Matplotlib, VBA, FLASK, Word2Vec, Statistics.
