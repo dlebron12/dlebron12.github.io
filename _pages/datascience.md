@@ -14,11 +14,11 @@ My third and fourth research were at the University of Alabama at their Statisti
 
 After graduating from my masters in Data Science I served as a Data Analytics Teaching Assistant and Statistics Instructor at Trilogy Education now U2, helping a cohort of 25 students to kickstart their carreer into Data Analytics.  Here I taught SQL, Postgres, Tableu, Hypothesis Testing, Vizualization and Story Telling, VBA, Python and R. 
 
-And the biggest experience of them all, was the learning I received during my Masters in Statistics 
+And the biggest experience of them all, was the learning I received during my Masters in Statistics. 
 
 ## Projects
 
 
 
 ## SKILLS
-Python, R, Machine Learning (Classification and Clustering), GWAS, Experimental Design, SQL, Matplotlib, VBA, FLASK, Word2Vec, Statistics.
+Python, R, Machine Learning (Classification and Clustering), GWAS, Experimental Design, SQL, Matplotlib, VBA, FLASK, Word2Vec, Statistics, Linear Mixed Models, Generalized Models.
