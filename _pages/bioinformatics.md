@@ -3,15 +3,18 @@ layout: page
 title: Journey into Bioinformatics
 permalink: /bioinformatics/
 ---
-## BIOINFORMATICS CODE/WORK
+## BIOINFORMATICS CODE SNIPPETS
 
-Customer facing script developed to extract reactivity values for a specific region of interest as stated in a bed file, and produce the necessary input files to produce the secondary structure in open-sourced folding algorithms.
+1. Customer facing script developed to extract reactivity values for a specific region of interest as stated in a bed file, and produce the necessary input files to produce the secondary structure in open-sourced secondary folding algorithms such as Vienna, Rnastructure,RNAFold and mfold.
 
 It can be found here: [extract_eshape_reactivities.py](https://github.com/dlebron12/eSHAPE_customer_toolkit/blob/01cd32a5db4c9e8a298b442b7bc4f5eba176f5be/eSHAPE/extract_eshape_reactivities.py)
 
+2. Code to validate bed file given a large uncompressed fasta.gz [validate_bed_compatibility_with_fasta.py](https://github.com/dlebron12/Bioinf-Data_Mining/blob/6bae3a7c8612e5f9f54a812f6e6c433f82c0eea2/validate_bed_compatibility_with_fasta.py)
+
+
 ## BIOINFORMATICS SKILLS 
 
-PYTHON, SNAKEMAKE, HTML, PLOTLY, MATPLOTLIB, STAR, BOWTIE, DESEQ2, MACHINE LEARNING, SAMPLE SIZE ESTIMATIONS, AWS, GCP, GOOGLE DATA ANALYTICS, CLIPPER, BEDTOOLS, KRAKEN, VIENNA, CUFFLINKS, QUIIME2, MFOLD, CLASSIFICATION ALGORITHMS, SECONDARY STRUCTURES, TARGETTED DESIGNS, METAGENOMIC ANALYSIS, DEMULTIPLEXING, CREATING BARCODES, PRODUCT DEVELOPMENT, BLAST, BEDTOOLS, PYSAM, PYTHONS BIO PACKAGE. 
+PYTHON, SNAKEMAKE, HTML, PLOTLY, MATPLOTLIB, STAR, docker, BOWTIE, DESEQ2, MACHINE LEARNING, SAMPLE SIZE ESTIMATIONS, AWS, GCP, GOOGLE DATA ANALYTICS, CLIPPER, BEDTOOLS, KRAKEN, VIENNA, CUFFLINKS, QUIIME2, MFOLD, CLASSIFICATION ALGORITHMS, SECONDARY STRUCTURES, TARGETTED DESIGNS, METAGENOMIC ANALYSIS, DEMULTIPLEXING, CREATING BARCODES, PRODUCT DEVELOPMENT, BLAST, BEDTOOLS, PYSAM, PYTHONS BIO PACKAGE. 
 
 
 ## THE JOURNEY
