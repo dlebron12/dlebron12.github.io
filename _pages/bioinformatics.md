@@ -5,11 +5,11 @@ permalink: /bioinformatics/
 ---
 ## BIOINFORMATICS CODE SNIPPETS
 
-1. Customer facing script developed to extract reactivity values for a specific region of interest as stated in a bed file, and produce the necessary input files to produce the secondary structure in open-sourced secondary folding algorithms such as Vienna, Rnastructure,RNAFold and mfold.
+Customer facing script developed to extract reactivity values for a specific region of interest as stated in a bed file, and produce the necessary input files to produce the secondary structure in open-sourced secondary folding algorithms such as Vienna, Rnastructure,RNAFold and mfold.It can be found here: [extract_eshape_reactivities.py](https://github.com/dlebron12/eSHAPE_customer_toolkit/blob/01cd32a5db4c9e8a298b442b7bc4f5eba176f5be/eSHAPE/extract_eshape_reactivities.py)
 
-It can be found here: [extract_eshape_reactivities.py](https://github.com/dlebron12/eSHAPE_customer_toolkit/blob/01cd32a5db4c9e8a298b442b7bc4f5eba176f5be/eSHAPE/extract_eshape_reactivities.py)
+---
 
-2. Code to validate bed file given a large uncompressed fasta.gz [validate_bed_compatibility_with_fasta.py](https://github.com/dlebron12/Bioinf-Data_Mining/blob/6bae3a7c8612e5f9f54a812f6e6c433f82c0eea2/validate_bed_compatibility_with_fasta.py)
+Code to validate bed file given a large uncompressed fasta.gz [validate_bed_compatibility_with_fasta.py](https://github.com/dlebron12/Bioinf-Data_Mining/blob/6bae3a7c8612e5f9f54a812f6e6c433f82c0eea2/validate_bed_compatibility_with_fasta.py)
 
 
 ## BIOINFORMATICS SKILLS 
