@@ -4,6 +4,13 @@ title: Gotta Love Data Science and Statistics!
 permalink: /datascience/
 ---
 
+## Projects
+
+
+
+## SKILLS
+Python, R, Machine Learning (Classification and Clustering), GWAS, Experimental Design, SQL, Matplotlib, VBA, FLASK, Word2Vec, Statistics, Linear Mixed Models, Generalized Models.
+
 ## Tapping into the Field
 
 I tapped into Statistics on my first intership at University of Vermont EPSCOR program, under the mentorship of Dr. Declan McCabe. Here was my first exposure to experimental design, hypothesis testing and ANOVA. My first research project focused on identifying the differences in abundances of macroinvertebrates (specifically scrappers) at different streams located in urban and rural areas.  Here I had to set sample collection sites within the stream, collect and taxonomically identify each bug and determine their respective abundances.  Anova was used to identify differences in the samples accounting for their location within the stream and rural/urban area. It was determined via these methods, that the population of macroinvertebrates in urban areas was minimized due to stream pollution affecting oxygen levels and therefore life viability within the stream. 
@@ -15,10 +22,3 @@ My third and fourth research were at the University of Alabama at their Statisti
 After graduating from my masters in Data Science I served as a Data Analytics Teaching Assistant and Statistics Instructor at Trilogy Education now U2, helping a cohort of 25 students to kickstart their carreer into Data Analytics.  Here I taught SQL, Postgres, Tableu, Hypothesis Testing, Vizualization and Story Telling, VBA, Python and R. 
 
 And the biggest experience of them all, was the learning I received during my Masters in Statistics. 
-
-## Projects
-
-
-
-## SKILLS
-Python, R, Machine Learning (Classification and Clustering), GWAS, Experimental Design, SQL, Matplotlib, VBA, FLASK, Word2Vec, Statistics, Linear Mixed Models, Generalized Models.
