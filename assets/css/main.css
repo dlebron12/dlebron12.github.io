@@ -275,3 +275,5 @@ main { display: block; }
 .mini-stats div { flex: 1 1 90px; background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
 .mini-stats strong { display: block; font-family: var(--serif); font-size: 1.25rem; color: var(--ink); line-height: 1.2; }
 .mini-stats span { font-size: .8rem; color: var(--muted); }
+.logo-row { display: flex; gap: 14px; margin-top: auto; padding-top: 14px; }
+.logo-row img { width: 96px; height: 96px; object-fit: contain; background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 8px; }
