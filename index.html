@@ -1,49 +1,150 @@
 ---
 layout: default
+title: Data Scientist & Statistician
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
+<section class="hero">
+  <div class="container">
+    <div>
+      <span class="eyebrow">{{ site.role }}</span>
+      <h1>I turn complex biological and business data into <em>decisions teams can act on.</em></h1>
+      <p class="lede">
+        I'm Dayanara — a statistician who spent eight years in data science at Lawrence Livermore
+        National Laboratory and in biotech product teams, building genomics pipelines, validating
+        products, and leading the people and projects around them.
+      </p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="{{ '/projects/' | relative_url }}">See my work</a>
+        <a class="btn btn-ghost" href="mailto:{{ site.email }}">Get in touch</a>
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-
-  <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
+      <div class="hero-meta">
+        <span>M.S. Statistics, UC Davis</span>
+        <span>English &amp; Spanish</span>
+        <span>{{ site.location }}</span>
+      </div>
+    </div>
+    <div class="portrait">
+      <img src="{{ site.avatar | relative_url }}" alt="Portrait of Dayanara Lebrón-Aldea" width="360" height="360">
+    </div>
   </div>
-  {% endif %}
-</div>
+</section>
+
+<section class="section" aria-label="Highlights">
+  <div class="container">
+    <div class="stats">
+      {% for h in site.data.highlights %}
+      <div class="stat">
+        <div class="stat-value">{{ h.value }}</div>
+        <div class="stat-label">{{ h.label }}</div>
+        <p class="stat-detail">{{ h.detail }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <h2>What I bring</h2>
+        <p>Three strengths that show up in every role I've held.</p>
+      </div>
+    </div>
+    <div class="pillars">
+      <div class="pillar">
+        <div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="m7 15 4-4 3 3 5-6"/></svg></div>
+        <h3>Statistics &amp; data science</h3>
+        <p>Experimental design, hypothesis testing, sample-size estimation, regression and mixed models, and machine learning — plus the judgment to pick the method the question actually needs.</p>
+      </div>
+      <div class="pillar">
+        <div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3c0 6 10 6 10 12s-10 6-10 6"/><path d="M17 3c0 6-10 6-10 12s10 6 10 6"/><path d="M8 7h8M8 17h8"/></svg></div>
+        <h3>Bioinformatics &amp; genomics</h3>
+        <p>RNA secondary structure, metagenomics, RNA-seq and GWAS. Production pipelines in Python and Snakemake on AWS/GCP, built for customers as well as internal scientists.</p>
+      </div>
+      <div class="pillar">
+        <div class="icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="7" r="4"/><path d="M3 21v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2"/><path d="M16 3.13a4 4 0 0 1 0 7.75M21 21v-2a4 4 0 0 0-3-3.85"/></svg></div>
+        <h3>Product &amp; project leadership</h3>
+        <p>Led bioinformatics and DevOps teams, stood up a QC function, owned budgets and timelines, and translated between R&amp;D, Marketing and customers. Google PM certificate; Leland PM program.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <h2>Selected work</h2>
+        <p>The problem, what I did about it, and what changed.</p>
+      </div>
+      <a class="more" href="{{ '/experience/' | relative_url }}">Full experience →</a>
+    </div>
+    <div class="grid-2">
+      {% for c in site.data.case_studies %}
+      <article class="card case">
+        <div class="card-kicker"><span>{{ c.org }}</span></div>
+        <h3>{{ c.title }}</h3>
+        <dl>
+          <dt>Problem</dt><dd>{{ c.problem }}</dd>
+          <dt>What I did</dt><dd>{{ c.action }}</dd>
+          <dt>Result</dt><dd class="result">{{ c.result }}</dd>
+        </dl>
+        {% if c.link %}<div class="card-foot"><a href="{{ c.link }}">{{ c.link_label | default: "Learn more" }} →</a></div>{% endif %}
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <h2>Career at a glance</h2>
+      </div>
+      <a class="more" href="{{ '/experience/' | relative_url }}">Details →</a>
+    </div>
+    <ol class="timeline compact">
+      {% for job in site.data.experience %}
+      <li>
+        <div class="tl-head"><h3>{{ job.org }}</h3><span class="tl-dates">{{ job.dates }}</span></div>
+        <p class="tl-role">{{ job.role }}</p>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <div>
+        <h2>Latest writing</h2>
+        <p>Notes on product development, statistics and working across teams.</p>
+      </div>
+      <a class="more" href="{{ '/writing/' | relative_url }}">All posts →</a>
+    </div>
+    <ul class="post-list">
+      {% for post in site.posts limit:3 %}
+      <li>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %Y" }}</time>
+        <p>{{ post.description | default: post.excerpt | strip_html | truncate: 180 }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="cta-band">
+      <div>
+        <h2>Let's talk</h2>
+        <p>Open to data science, analytics and product roles — remote or in Puerto Rico.</p>
+      </div>
+      <a class="btn" href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
+  </div>
+</section>

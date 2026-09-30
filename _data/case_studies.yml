@@ -1,0 +1,58 @@
+# "Selected work" cards on the home page and Experience page.
+# Each one reads as: the problem -> what I did -> the result.
+- title: RNA structure-probing product, from prototype to patent
+  org: Eclipse Bioinnovations
+  tags: [Bioinformatics, Statistics, Product]
+  problem: >-
+    Scientists needed a reliable way to read mRNA secondary structure from
+    chemical-probing (eSHAPE) data — in tissues, and in manufactured and
+    LNP-encapsulated RNA used for vaccines and gene therapies.
+  action: >-
+    Served as the statistics subject-matter expert on the product: built the
+    analysis toolkit, the structure databases, and a customer-facing script that
+    turns reactivities into inputs for open-source folders (ViennaRNA, RNAstructure, mfold).
+  result: >-
+    Shipped as a customer toolkit and led to a patent filing (PCT/US2023/067794)
+    on RNA secondary structure of LNP-encapsulated RNA.
+  link: https://github.com/dlebron12/eSHAPE_customer_toolkit
+  link_label: See the toolkit code
+
+- title: Building a Quality Control function from scratch
+  org: Eclipse Bioinnovations
+  tags: [Leadership, QC, Process]
+  problem: >-
+    Kits were shipping without a formal QC process, so there was no clear
+    statement of where the product performs best — or early warning when a batch didn't.
+  action: >-
+    Led the creation of the QC team, built a QC pipeline with two bioinformatics
+    scientists, defined performance boundaries, and wrote the SOPs.
+  result: >-
+    A documented, repeatable QC process that protected customer satisfaction and
+    set the conditions each product is validated for.
+
+- title: Marketing analytics that cut spend
+  org: Eclipse Bioinnovations
+  tags: [Analytics, A/B testing, Power BI]
+  problem: >-
+    Google Ads campaigns were running without a clear read on which keywords
+    and channels actually drove engagement.
+  action: >-
+    Analyzed Google Analytics keyword and engagement data with A/B comparisons
+    and presented the findings to senior leadership in Power BI.
+  result: >-
+    Forecast a ~20% reduction in the monthly advertising budget without losing
+    the campaigns that were working.
+
+- title: Self-service analysis pipelines for scientists
+  org: Tecan Genomics & Eclipse Bioinnovations
+  tags: [Team lead, Automation, DevOps]
+  problem: >-
+    Routine analyses depended on the bioinformatics team running pipelines by
+    hand, which slowed turnaround for every scientist.
+  action: >-
+    As bioinformatics lead, managed a DevOps team to automate internal pipelines
+    behind a front end scientists could log into; later led two engineers
+    automating pipelines with interactive reports.
+  result: >-
+    Scientists kicked off their own routine analyses, and turnaround time dropped.
+    I also owned budget, timelines and resources for these projects.

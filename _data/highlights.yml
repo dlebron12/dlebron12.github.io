@@ -1,0 +1,13 @@
+# Big numbers shown on the home page. Keep to 4.
+- value: "8+"
+  label: years in data science
+  detail: Lawrence Livermore National Lab, Tecan Genomics, Eclipse Bioinnovations
+- value: "1"
+  label: patent (PCT)
+  detail: RNA secondary structure of LNP-encapsulated RNA — PCT/US2023/067794
+- value: "3"
+  label: peer-reviewed publications
+  detail: Nature Communications, PLOS ONE, Frontiers in Genetics
+- value: "~20%"
+  label: forecast cut in monthly ad spend
+  detail: A/B and keyword analysis for Marketing, presented to leadership in Power BI

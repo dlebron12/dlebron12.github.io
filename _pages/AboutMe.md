@@ -1,60 +1,42 @@
 ---
 layout: page
-title: About ME
+title: About me
+eyebrow: ¡Wepa! Welcome
+intro: >-
+  Statistician by training, data scientist by trade, and a teacher at heart —
+  born and raised in Puerto Rico.
 permalink: /about/
 ---
-<div align="center">
-  <br>
-  <img src="/images/dayanara.jpg" alt="mypicture" width="200"/>
-  <br>  
-  <p align="center">
-    <i>Welcome to my Data Science Portfolio</i>
-  </p>
-</div>
 
-**About Me**
+<img src="{{ site.avatar | relative_url }}" alt="Dayanara Lebrón-Aldea" style="width:180px;border-radius:50%;margin:0 0 1.5em">
 
-I was born and raised in Puerto Rico; and am a first-gen college student.  At a young age I became interested and passionate about mathematics - this being my favorite subject at school.  During my senior year, I participated in the Saturday Research Academy at the _Universidad Metropolitana_ in San Juan, P.R, where I was able to do my first research in <b>Biostatistics</b>.  Following this amazing experience, pursued a bachelors degree in Applied Mathematics to Biology and graduated May 2015 having a first-author peer reviewed publication in <b>Genetical Statistics</b> and having also participated in 4 summer internships in various universities in the U.S.  In addition to, being an experienced 2 year Mentor Teacher for Biostatistics at the same Research Academy that granted me so much.
+I'm a first-generation college graduate who fell for mathematics early. As a high-school senior I joined the Saturday Research Academy at the *Universidad Metropolitana* in San Juan and did my first research project in **biostatistics** — and saw that statistics applied to biology and medicine has real impact on people's lives. I've been following that thread ever since.
 
-Today, I hold a M.S in Statistics with a Data Science Track from the University of California, Davis. I have co-authored 2 papers with the Department of Health from Oasaka, Japan and the FDA.  In addition, I have 4 years working as a Data Scientist for one of the top Government Laboratories in the U.S and 4 more years of experience in product development in the biotech industry.  My skills have allow me to excel in jobs related to Data Science, Genomics, Teaching, Software Development and Project Management. 
+I earned a **B.S. in Applied Mathematics** (Universidad Metropolitana, 2015) with a first-author paper in statistical genetics and four summer research internships in the U.S. behind me. I then completed an **M.S. in Statistics (Data Science track) at UC Davis** while working full time as a data scientist at **Lawrence Livermore National Laboratory**.
 
-My research interests are in: statistical genetics, bioinformatics, data mining and machine learning.  Overall, no matter what the application is, I am just passionate about data analysis and the insight data can gives us to solve real problems.  I am very passionate about my work, and like to bring a very positive attitute at work and to those that work around me.
+Since then I've spent eight years in data science: at LLNL in metagenomics and biosecurity, then in biotech product development at **Tecan Genomics** and **Eclipse Bioinnovations**, where I led bioinformatics teams, built a QC function, and developed an RNA structure product that led to a patent filing.
 
-**CS Skills:** Python, R, SQL, Bash, Perl.  Used to program in C++ and MatLab but it has been a long while. 
+## What I care about
 
-**Published Papers:**
+- **Getting the question right before the method.** Most analysis problems are really design problems.
+- **Making data usable by the people who need it** — scientists, marketers, customers and leadership alike.
+- **Teams where people ask questions freely.** I've written about what that means for [product development]({{ '/Thoughts-on-Product-Development/' | relative_url }}).
 
-- Lebrón-Aldea, D., Dhurandhar, E. J., Pérez-Rodríguez, P., Klimentidis, Y. C., Tiwari, H. K., & Vazquez, A. I. (2015). Integrated genomic and BMI analysis for type 2 diabetes risk assessment. Frontiers in Genetics, 6, 75. [link_to_paper]( http://doi.org/10.3389/fgene.2015.00075)
+## Right now
 
-- Thissen, JB …, Lebrón-Aldea, Dayanara, et.al (2018). A novel variant of torque virus 7 identified in patients with Kawasaki disease, Plos One 13(12): e0209683, doi: 10.1371/journal.pone.0209683 [link_to_paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0209683&type=printable) 
+I'm looking for my next role in **data science, analytics, or product/project management**. Since 2024 I've been tutoring math and statistics and teaching Spanish ([see my freelance work]({{ '/freelance/' | relative_url }})), completed a Leland grant program in Product Management, and keep building on my [statistics and ML notebooks](https://github.com/dlebron12/Statistics).
 
-- Sichtig, H., …, Lebrón-Aldea, Dayanara, et.al (2018). FDA-ARGOS: A Public Quality-Controlled Genome Database Resource for Infectious Disease Sequencing Diagnostics and Regulatory Science Research, Nature Communications. doi: 10.1101/482059 [link_to_paper](https://www.biorxiv.org/content/early/2018/11/29/482059?utm_source=Nature_website&utm_medium=Website_links&utm_content=SamZim-Nature-Nature_Comms-Multidisciplinary-Global&utm_campaign=NATCOMMS_AWA_NC-UNDER-CONSID)
+## Selected recognition
 
-***Compiled Classes from Masters and Bachelors*** 
+- **Most Outstanding Poster Presentation in Computation** — LLNL Poster Symposium, 2015
+- **GEM Fellowship**, Full Fellow (LLNL – UC Davis), 2016–2017
+- **NSF Research Training Group Grant**, 2016–2017
+- **KDD Conference & BPDM Workshop Travel Fellowship**, 2016 (awarded to ~10% of applicants)
+- Best poster awards at SACNAS (2011), AGMUS (2012) and UAB Research Expo (2013)
+- NSF Bio-Mathematics Scholar (2011–2014) and Mathematics Alliance Scholar (2012–2014)
 
-- **Classes in Stats:**
-Analysis of Variance, Regression Analysis, Data Technologies and Web Applications, Statistical Data Science, Probablity Theory, Into to Mathematical Statistics, Mathematical Statistics, Big Data and High Performance Computing, Multivariate Data Analysis, Time Series Analysis, Categorical Data Analysis, Statistics Methods I, Statistics Methods II, Machine Learning, Computational Statistics (Stochastic Methods), Survival Analysis, Bioinformatics, Advanced Topics in Biostatistics.
+## Languages
 
-- **Classes in Science:** 
-General Biology I, General Biology II, General Chemistry I, General Chemistry II, Genetics, Ecology, Human Evolution, Human Biology I, Human Biology II, Psychology I, Psychology II, Introduction to Biostatistics, General Physics I, General Physics II, Introduction to Programming Structures in C++, Object Oriented Programming in C++. 
+English and Spanish, both fluent.
 
-- **Classes in Mathematics:**
-Precalculus I, PreCalculus II, Calculus I, Calculus II, Calculus III, Differential Equations, Advanced Applied Mathematics, Applied Mathematics for Phycisists, Mathematical Modelling, Probability and Statistics Numerical Analysis and Introduction to Statistics.
-
-# Awards:
-- 2016 Travel Fellowship for BPDM Workshops and KDD Conference (awarded to only 10% of applicants)
-- 2016 -2017 GEM Fellowship - Full Fellow (LLNL-UCDAVIS)
-- 2016-2017 NSF Research Training Group Grant
-- Acceptance to University of California at Davis Statistics Graduate Program
-- 2015 LLNL Poster Symposium - Most Outstanding Poster Presentation in Computation.
-- 2013 UAB Research Expo (Third Place) Best Poster Presentation in Public Health
-- 2013 MGE@MSA/WAESO Research Conference - Honorable Mention for Poster Presentation
-- 2012 AGMUS Research Symposium Best Poster Presentation in Biostatistics
-- 2012-2014 Mathematics Alliance Scholar
-- 2011-2014 NSF Bio-Mathematics Scholarship
-- Spring 2011: AGMUS Bio-Mathematics Excellence List
-- 2011 SACNAS National Conference Best Poster Presentation in Applied Mathematics.
-- 2011 Model Institute of Excellence (MIE) Award
-- Travel Awards: SACNAS 2011 National Conference; BKX 69th Annual Conference; MGE@MSA/WAESO
-Conference; SACNAS 2012 National Conference; 2013 Richard Tapia Conference; 71th Joint Annual NIS and
-BKC Conference; Joint Mathematical Meeting 2015 and 2014 Field of Dreams.
+[Get in touch](mailto:{{ site.email }}) — I'd love to hear from you.

@@ -1,0 +1,23 @@
+- citation: >-
+    Lebrón-Aldea D., Dhurandhar E. J., Pérez-Rodríguez P., Klimentidis Y. C.,
+    Tiwari H. K., Vazquez A. I. (2015). Integrated genomic and BMI analysis for
+    type 2 diabetes risk assessment.
+  venue: Frontiers in Genetics, 6, 75
+  link: https://doi.org/10.3389/fgene.2015.00075
+  first_author: true
+- citation: >-
+    Sichtig H., …, Lebrón-Aldea D., et al. FDA-ARGOS: a public quality-controlled
+    genome database resource for infectious disease sequencing diagnostics and
+    regulatory science research.
+  venue: Nature Communications
+  link: https://www.biorxiv.org/content/early/2018/11/29/482059
+- citation: >-
+    Thissen J. B., …, Lebrón-Aldea D., et al. (2018). A novel variant of torque
+    teno virus 7 identified in patients with Kawasaki disease.
+  venue: "PLOS ONE 13(12): e0209683"
+  link: https://doi.org/10.1371/journal.pone.0209683
+- citation: >-
+    Patent application PCT/US2023/067794 — RNA secondary structure of
+    LNP-encapsulated RNA.
+  venue: Patent Cooperation Treaty (PCT)
+  patent: true
