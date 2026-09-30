@@ -1,0 +1,48 @@
+# Timeline on the Experience page (most recent first).
+- org: Independent
+  role: Math & Statistics Tutor · Spanish Instructor
+  dates: 2024 – Present
+  summary: >-
+    Run my own tutoring practice (about a dozen students a year, K–12 through
+    college statistics, in English and Spanish) and teach Spanish online.
+    Completed a Leland grant program in Product Management (2026).
+  link: /freelance/
+  link_label: More about my freelance work
+
+- org: Eclipse Bioinnovations
+  role: Sr. Bioinformatics Data Scientist I · Bioinformatics Scientist
+  dates: Aug 2021 – Nov 2023
+  summary: Hired as the team's statistics subject-matter expert; promoted after one year.
+  bullets:
+    - Built an RNA secondary-structure product (eSHAPE) for tissue, manufactured and LNP-encapsulated RNA, leading to patent filing PCT/US2023/067794.
+    - Designed statistical validations for customer projects based on each experiment's design and goals.
+    - Project lead for two bioinformatics engineers automating internal pipelines, with interactive reports and faster turnaround.
+    - Analyzed Marketing's Google Ads data (A/B, keyword and engagement metrics); presented in Power BI to senior leadership and forecast a ~20% cut in monthly spend.
+    - Led the creation of the Quality Control team, its pipeline and SOPs.
+    - Introduced GitHub Projects for task tracking and documentation across the team.
+
+- org: Tecan Genomics
+  role: Sr. Bioinformatics Data Scientist · Bioinformatics Scientist
+  dates: 2019 – 2021
+  summary: Lead bioinformatician on several products; promoted to lead the bioinformatics team after one year.
+  bullets:
+    - Partnered with QC and Manufacturing to verify batches against product specifications and helped define the QC metrics.
+    - Managed a DevOps team automating internal pipelines behind a self-service front end for scientists.
+    - Managed one direct report and was first point of contact for customer requests, with Customer Service.
+    - Tracked project budgets, timelines and resources.
+
+- org: Lawrence Livermore National Laboratory
+  role: Data Scientist · Computation Intern
+  dates: 2015 – 2019
+  summary: Global Security Bioinformatics group — grew from summer intern to Data Scientist while completing my M.S. part-time.
+  bullets:
+    - Ran metagenomic analyses and maintained the reference database (viral, bacterial, plant and other genomes from NCBI) behind the Livermore Metagenomics Analysis Toolkit (LMAT).
+    - Extended LMAT with statistical features and plots.
+    - Collaborated with the FDA, NASA and Japanese public-health researchers; co-authored papers in Nature Communications and PLOS ONE.
+
+- org: Teaching
+  role: Data Analytics Instructor · Biostatistics Mentor Teacher
+  dates: 2012 – 2019
+  bullets:
+    - Data Analytics teaching assistant and statistics instructor for a 25-student UC Davis bootcamp cohort (Trilogy Education) — SQL/Postgres, Tableau, Python, R, VBA, hypothesis testing and data storytelling.
+    - Two years as Biostatistics Mentor Teacher at the Saturday Research Academy, Universidad Metropolitana (San Juan, PR).

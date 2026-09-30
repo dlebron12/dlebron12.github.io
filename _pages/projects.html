@@ -1,0 +1,58 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+description: Bioinformatics tools, statistical genetics research and machine-learning projects by Dayanara Lebrón-Aldea.
+---
+
+<section class="page-hero">
+  <div class="container">
+    <span class="eyebrow">Projects</span>
+    <h1>Tools, research and analyses</h1>
+    <p>Code I've shipped to customers, research I've published, and the analyses I use to keep sharpening my statistics and machine learning.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="grid-3">
+      {% for p in site.data.projects %}
+      <article class="card">
+        <div class="card-kicker"><span>{{ p.kind }}</span><span class="year">{{ p.year }}</span></div>
+        <h3>{{ p.title }}</h3>
+        <p>{{ p.description }}</p>
+        <ul class="chips">{% for s in p.stack %}<li>{{ s }}</li>{% endfor %}</ul>
+        {% if p.link %}<div class="card-foot"><a href="{{ p.link }}">{{ p.link_label | default: "View on GitHub" }} →</a></div>{% endif %}
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head"><div><h2>Publications &amp; patent</h2></div></div>
+    <ul class="pubs">
+      {% for p in site.data.publications %}
+      <li>
+        {% if p.link %}<a href="{{ p.link }}">{{ p.citation }}</a>{% else %}{{ p.citation }}{% endif %}
+        {% if p.first_author %}<span class="badge">First author</span>{% endif %}
+        {% if p.patent %}<span class="badge">Patent</span>{% endif %}
+        <span class="venue">{{ p.venue }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="cta-band">
+      <div>
+        <h2>More on GitHub</h2>
+        <p>Notebooks, experiments and work in progress.</p>
+      </div>
+      <a class="btn" href="https://github.com/{{ site.github_username }}">github.com/{{ site.github_username }}</a>
+    </div>
+  </div>
+</section>

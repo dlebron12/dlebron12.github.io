@@ -1,0 +1,28 @@
+---
+layout: default
+title: Writing
+permalink: /writing/
+description: Notes on product development, statistics and working across teams.
+---
+
+<section class="page-hero">
+  <div class="container">
+    <span class="eyebrow">Writing</span>
+    <h1>Notes and essays</h1>
+    <p>What I've learned about product development, statistics and working across teams.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <ul class="post-list" style="max-width:760px">
+      {% for post in site.posts %}
+      <li>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+        <p>{{ post.description | default: post.excerpt | strip_html | truncate: 220 }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

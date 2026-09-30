@@ -1,0 +1,65 @@
+# Cards on the Projects page. Add new projects at the top.
+# kind: shown as a small label. year: when you did it.
+- title: eSHAPE customer toolkit
+  kind: Bioinformatics · Tool
+  year: 2022
+  description: >-
+    Customer-facing tool I wrote and released at Eclipsebio. Intersects per-base
+    eSHAPE reactivities with a region of interest, optionally normalizes them
+    (IQR or min-max), and writes the .shape/.fa/.map inputs RNA folding
+    algorithms need to predict secondary structure.
+  stack: [Python, pandas, NumPy, BED/bedGraph]
+  link: https://github.com/dlebron12/eSHAPE_customer_toolkit
+
+- title: BED ⇄ FASTA compatibility validator
+  kind: Bioinformatics · Utility
+  year: 2023
+  description: >-
+    Checks that every interval in a BED file is valid against a large genome
+    FASTA before a pipeline runs, so bad coordinates fail fast instead of
+    hours into an analysis.
+  stack: [Python, pybedtools, pyfasta]
+  link: https://github.com/dlebron12/Bioinf-Data_Mining/blob/6bae3a7c8612e5f9f54a812f6e6c433f82c0eea2/validate_bed_compatibility_with_fasta.py
+
+- title: Genomic + BMI risk model for type 2 diabetes
+  kind: Statistical genetics · Publication
+  year: 2015
+  description: >-
+    Combined GWAS array data with BMI, exercise, blood pressure, cholesterol,
+    sex and age to predict type 2 diabetes risk, comparing logistic regression,
+    SVMs and neural networks. First-author paper in Frontiers in Genetics.
+  stack: [R, GWAS, Logistic regression, SVM, Neural nets]
+  link: https://doi.org/10.3389/fgene.2015.00075
+  link_label: Read the paper
+
+- title: Credit card fraud detection
+  kind: Machine learning
+  year: 2018
+  description: >-
+    Fraud classification on a highly imbalanced transactions dataset. Compared
+    logistic regression and a neural network, with SMOTE oversampling vs.
+    undersampling done inside cross-validation, recursive feature elimination,
+    and F1 rather than accuracy as the metric.
+  stack: [Python, scikit-learn, imbalanced-learn, pandas]
+  link: https://github.com/dlebron12/CreditCardFraud/blob/master/CreditFraud%20Project.ipynb
+
+- title: Metagenomics at LLNL (LMAT)
+  kind: Bioinformatics · Research software
+  year: 2015–2019
+  description: >-
+    Maintained the reference database and added statistical features and plots
+    to the Livermore Metagenomics Analysis Toolkit, used in work with the FDA and NASA.
+  stack: [Metagenomics, Python, Bash, NCBI]
+  link: https://computing.llnl.gov/projects/livermore-metagenomics-analysis-toolkit
+  link_label: About LMAT
+
+- title: Statistics & ML notebooks
+  kind: Statistics · Notebooks
+  year: 2024–2025
+  description: >-
+    An ongoing collection: Bayesian statistics (priors, likelihoods, posterior
+    updating), ML from first principles (gradient descent, PCA, k-means,
+    Gaussian mixtures, neural networks in PyTorch), a weather-forecasting
+    project, and RNA-seq sample-size estimation in R.
+  stack: [Python, PyTorch, R, Jupyter]
+  link: https://github.com/dlebron12/Statistics
