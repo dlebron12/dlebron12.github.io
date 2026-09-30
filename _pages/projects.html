@@ -8,8 +8,8 @@ description: Bioinformatics tools, statistical genetics research and machine-lea
 <section class="page-hero">
   <div class="container">
     <span class="eyebrow">Projects</span>
-    <h1>Tools, research and analyses</h1>
-    <p>Code I've shipped to customers, research I've published, and the analyses I use to keep sharpening my statistics and machine learning.</p>
+    <h1>Tools, Research and Analyses</h1>
+    <p>Code I've shipped to customers, research I've done, and the analyses I use to keep sharpening my statistics and machine learning.</p>
   </div>
 </section>
 
@@ -26,22 +26,6 @@ description: Bioinformatics tools, statistical genetics research and machine-lea
       </article>
       {% endfor %}
     </div>
-  </div>
-</section>
-
-<section class="section">
-  <div class="container">
-    <div class="section-head"><div><h2>Publications &amp; patent</h2></div></div>
-    <ul class="pubs">
-      {% for p in site.data.publications %}
-      <li>
-        {% if p.link %}<a href="{{ p.link }}">{{ p.citation }}</a>{% else %}{{ p.citation }}{% endif %}
-        {% if p.first_author %}<span class="badge">First author</span>{% endif %}
-        {% if p.patent %}<span class="badge">Patent</span>{% endif %}
-        <span class="venue">{{ p.venue }}</span>
-      </li>
-      {% endfor %}
-    </ul>
   </div>
 </section>
 

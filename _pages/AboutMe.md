@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 eyebrow: ¡Wepa! Welcome
 intro: >-
   Data scientist by trade, statistician by training, and a teacher at heart.
@@ -16,17 +16,30 @@ I earned a **B.S. in Applied Mathematics** (Universidad Metropolitana, 2015) wit
 
 Since then I've spent eight years in data science: at LLNL in metagenomics and biosecurity, then in biotech product development at **Tecan Genomics** and **Eclipse Bioinnovations**, where I owned the eSHAPE RNA structure product line, led bioinformatics scientists, data scientists and DevOps teams, and developed and led a QC team. That work also made me a co-inventor on a [patent application](https://patents.justia.com/patent/20260250666) published in August 2026.
 
-## What I care about
+## What I Care About
 
 - **Getting the question right before the method.** Most analysis problems are really design problems.
 - **Making data usable by the people who need it:** scientists, marketers, customers and leadership alike.
 - **Teams where people ask questions freely.** I've written about what that means for [product development]({{ '/Thoughts-on-Product-Development/' | relative_url }}).
 
-## Right now
+## Right Now
 
 I'm looking for my next role in **data science, analytics, or product/project management**. Since 2024 I've been tutoring math and statistics and teaching Spanish ([see my freelance work]({{ '/freelance/' | relative_url }})), completed a Leland grant program in Product Management, and keep building on my [statistics and ML notebooks](https://github.com/dlebron12/Statistics).
 
-## Selected recognition
+## Publications & Patent
+
+<ul class="pubs">
+{% for p in site.data.publications %}
+  <li>
+    {% if p.link %}<a href="{{ p.link }}">{{ p.citation }}</a>{% else %}{{ p.citation }}{% endif %}
+    {% if p.first_author %}<span class="badge">First author</span>{% endif %}
+    {% if p.patent %}<span class="badge">Patent</span>{% endif %}
+    <span class="venue">{{ p.venue }}</span>
+  </li>
+{% endfor %}
+</ul>
+
+## Selected Recognition
 
 - **Most Outstanding Poster Presentation in Computation**, LLNL Poster Symposium, 2015
 - **GEM Fellowship**, Full Fellow (LLNL – UC Davis), 2016–2017

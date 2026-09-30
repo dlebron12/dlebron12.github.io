@@ -1,6 +1,6 @@
 # Cards on the Projects page. Add new projects at the top.
 # kind: shown as a small label. year: when you did it.
-- title: eSHAPE customer toolkit
+- title: eSHAPE Customer Toolkit
   kind: Bioinformatics · Tool
   year: 2022
   description: >-
@@ -11,7 +11,7 @@
   stack: [Python, pandas, NumPy, BED/bedGraph]
   link: https://github.com/dlebron12/eSHAPE_customer_toolkit
 
-- title: BED ⇄ FASTA compatibility validator
+- title: BED ⇄ FASTA Compatibility Validator
   kind: Bioinformatics · Utility
   year: 2023
   description: >-
@@ -21,7 +21,7 @@
   stack: [Python, pybedtools, pyfasta]
   link: https://github.com/dlebron12/Bioinf-Data_Mining/blob/6bae3a7c8612e5f9f54a812f6e6c433f82c0eea2/validate_bed_compatibility_with_fasta.py
 
-- title: Genomic + BMI risk model for type 2 diabetes
+- title: Genomic + BMI Risk Model for Type 2 Diabetes
   kind: Statistical genetics · Publication
   year: 2015
   description: >-
@@ -32,7 +32,7 @@
   link: https://doi.org/10.3389/fgene.2015.00075
   link_label: Read the paper
 
-- title: Credit card fraud detection
+- title: Credit Card Fraud Detection
   kind: Machine learning
   year: 2018
   description: >-
@@ -53,7 +53,7 @@
   link: https://computing.llnl.gov/projects/livermore-metagenomics-analysis-toolkit
   link_label: About LMAT
 
-- title: Statistics & ML notebooks
+- title: Statistics & ML Notebooks
   kind: Statistics · Notebooks
   year: 2024–2025
   description: >-

@@ -1,6 +1,6 @@
 # "Selected work" cards on the home page and Experience page.
 # Each one reads as: the problem -> what I did -> the result.
-- title: Owning the eSHAPE product line
+- title: Owning the eSHAPE Product Line
   org: Eclipse Bioinnovations
   tags: [Bioinformatics, Statistics, Product]
   problem: >-
@@ -18,7 +18,7 @@
   link: https://github.com/dlebron12/eSHAPE_customer_toolkit
   link_label: See the toolkit code
 
-- title: Developing and leading a QC team
+- title: Developing and Leading a QC Team
   org: Eclipse Bioinnovations
   tags: [Leadership, QC, Process]
   problem: >-
@@ -31,7 +31,7 @@
     A documented, repeatable QC process that protected customer satisfaction and
     set the conditions each product is validated for.
 
-- title: Marketing analytics that cut spend
+- title: Marketing Analytics That Cut Spend
   org: Eclipse Bioinnovations
   tags: [Analytics, A/B testing, Power BI]
   problem: >-
@@ -44,7 +44,7 @@
     Forecast a ~20% reduction in the monthly advertising budget without losing
     the campaigns that were working.
 
-- title: Self-service analysis pipelines for scientists
+- title: Self-Service Analysis Pipelines for Scientists
   org: Tecan Genomics & Eclipse Bioinnovations
   tags: [Team lead, Automation, DevOps]
   problem: >-
