@@ -1,10 +1,10 @@
 # Big numbers shown on the home page. Keep to 4.
-- value: "8+"
-  label: years in data science
-  detail: Lawrence Livermore National Lab, Tecan Genomics, Eclipse Bioinnovations
+- value: "10+"
+  label: years in data science & teaching
+  detail: Eight years at Lawrence Livermore National Lab, Tecan Genomics and Eclipse Bioinnovations, plus teaching and tutoring
 - value: "1"
-  label: patent (PCT)
-  detail: RNA secondary structure of LNP-encapsulated RNA — PCT/US2023/067794
+  label: published patent application
+  detail: Co-inventor on RNA secondary structure of LNP-encapsulated RNA, published August 2026
 - value: "3"
   label: peer-reviewed publications
   detail: Nature Communications, PLOS ONE, Frontiers in Genetics

@@ -1,15 +1,16 @@
 # ---------------------------------------------------------------
-# Site settings — edit these to change what appears site-wide
+# Site settings: edit these to change what appears site-wide
 # ---------------------------------------------------------------
 
 title: Dayanara Lebrón-Aldea
 name: Dayanara Lebrón-Aldea
 short_name: Dayanara
-role: Data Scientist · Statistician · Bioinformatics
+role: Data Scientist · Bioinformatics · Analytics
 description: >-
-  Data scientist and statistician with 8+ years in a national lab and biotech
-  product teams — genomics, statistical validation, analytics, and product
-  leadership. Bilingual (English/Spanish), based in Puerto Rico.
+  Data scientist with 10+ years of experience across data science and teaching,
+  including eight years at a national lab and in biotech product teams working
+  on genomics, analytics and product leadership. Bilingual (English/Spanish),
+  based in Puerto Rico.
 location: Puerto Rico · open to remote
 
 # Photo used on the home page, About page and link previews
@@ -31,14 +32,14 @@ social:
     - https://github.com/dlebron12
     - https://www.linkedin.com/in/dayanara-lebron/
 
-# Google Analytics 4 (optional) — e.g. G-ABC123XYZ
+# Google Analytics 4 (optional), e.g. G-ABC123XYZ
 google_analytics_ga4:
 
 url: https://dlebron12.github.io
 baseurl: ""
 
 # ---------------------------------------------------------------
-# Build settings — you normally don't need to touch these
+# Build settings: you normally don't need to touch these
 # ---------------------------------------------------------------
 permalink: /:title/
 markdown: kramdown

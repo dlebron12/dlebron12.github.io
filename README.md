@@ -1,11 +1,11 @@
 # dlebron12.github.io
 
-Personal site of **Dayanara Lebrón-Aldea** — data scientist, statistician and bioinformatician.
+Personal site of **Dayanara Lebrón-Aldea**, data scientist and bioinformatician.
 Live at <https://dlebron12.github.io>. Built with Jekyll on GitHub Pages (no theme gem needed).
 
 ## Editing content
 
-Most content lives in plain YAML files — edit these and the pages update:
+Most content lives in plain YAML files. Edit these and the pages update:
 
 | File | What it controls |
 |---|---|
@@ -13,7 +13,7 @@ Most content lives in plain YAML files — edit these and the pages update:
 | `_data/highlights.yml` | The four big numbers on the home page |
 | `_data/case_studies.yml` | "Selected work" cards (problem → what I did → result) |
 | `_data/experience.yml` | Experience timeline |
-| `_data/projects.yml` | Project cards — add new projects at the top |
+| `_data/projects.yml` | Project cards (add new projects at the top) |
 | `_data/publications.yml` | Publications & patent |
 | `_data/nav.yml` | Top navigation |
 

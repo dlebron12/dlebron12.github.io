@@ -1,19 +1,20 @@
 # "Selected work" cards on the home page and Experience page.
 # Each one reads as: the problem -> what I did -> the result.
-- title: RNA structure-probing product, from prototype to patent
+- title: Owning the eSHAPE product line
   org: Eclipse Bioinnovations
   tags: [Bioinformatics, Statistics, Product]
   problem: >-
     Scientists needed a reliable way to read mRNA secondary structure from
-    chemical-probing (eSHAPE) data — in tissues, and in manufactured and
+    chemical-probing (eSHAPE) data, in tissues and in the manufactured and
     LNP-encapsulated RNA used for vaccines and gene therapies.
   action: >-
-    Served as the statistics subject-matter expert on the product: built the
-    analysis toolkit, the structure databases, and a customer-facing script that
-    turns reactivities into inputs for open-source folders (ViennaRNA, RNAstructure, mfold).
+    Owned the eSHAPE product line. I built the analysis toolkit and the structure
+    databases, and wrote the customer-facing script that turns reactivities into
+    inputs for open-source folding tools like ViennaRNA, RNAstructure and mfold.
   result: >-
-    Shipped as a customer toolkit and led to a patent filing (PCT/US2023/067794)
-    on RNA secondary structure of LNP-encapsulated RNA.
+    A customer toolkit in the field, and a patent application on obtaining RNA
+    secondary structure of LNP-encapsulated RNA, published in August 2026 with me
+    as co-inventor.
   link: https://github.com/dlebron12/eSHAPE_customer_toolkit
   link_label: See the toolkit code
 
@@ -22,7 +23,7 @@
   tags: [Leadership, QC, Process]
   problem: >-
     Kits were shipping without a formal QC process, so there was no clear
-    statement of where the product performs best — or early warning when a batch didn't.
+    statement of where the product performs best, and no early warning when a batch didn't.
   action: >-
     Led the creation of the QC team, built a QC pipeline with two bioinformatics
     scientists, defined performance boundaries, and wrote the SOPs.

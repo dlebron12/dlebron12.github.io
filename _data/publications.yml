@@ -17,7 +17,8 @@
   venue: "PLOS ONE 13(12): e0209683"
   link: https://doi.org/10.1371/journal.pone.0209683
 - citation: >-
-    Patent application PCT/US2023/067794 — RNA secondary structure of
-    LNP-encapsulated RNA.
-  venue: Patent Cooperation Treaty (PCT)
+    Johansen A., Bruns S. C., Lebrón-Aldea D., Chapman K. B. Methods for
+    obtaining RNA secondary structure of LNP-encapsulated RNA.
+  venue: "U.S. Patent Application Publication No. 2026/0250666, published August 27, 2026 (from PCT/US2023/067794)"
+  link: https://patents.justia.com/patent/20260250666
   patent: true

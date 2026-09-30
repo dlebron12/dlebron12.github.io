@@ -3,7 +3,7 @@ layout: post
 title: "Thoughts on Product Development: What I Wish I'd Known"
 categories: [Product Development, Project Management]
 description: >-
-  Lessons from five years as a scientist in biotech product development — why
+  Lessons from five years as a scientist in biotech product development: why
   careful roadmaps still slip, and seven habits that help teams launch on time.
 ---
 

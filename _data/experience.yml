@@ -14,7 +14,7 @@
   dates: Aug 2021 – Nov 2023
   summary: Hired as the team's statistics subject-matter expert; promoted after one year.
   bullets:
-    - Built an RNA secondary-structure product (eSHAPE) for tissue, manufactured and LNP-encapsulated RNA, leading to patent filing PCT/US2023/067794.
+    - Owned the eSHAPE product line, which reads RNA secondary structure in tissue, manufactured and LNP-encapsulated RNA. Co-inventor on the resulting patent application (US 2026/0250666, published August 2026).
     - Designed statistical validations for customer projects based on each experiment's design and goals.
     - Project lead for two bioinformatics engineers automating internal pipelines, with interactive reports and faster turnaround.
     - Analyzed Marketing's Google Ads data (A/B, keyword and engagement metrics); presented in Power BI to senior leadership and forecast a ~20% cut in monthly spend.
@@ -34,7 +34,7 @@
 - org: Lawrence Livermore National Laboratory
   role: Data Scientist · Computation Intern
   dates: 2015 – 2019
-  summary: Global Security Bioinformatics group — grew from summer intern to Data Scientist while completing my M.S. part-time.
+  summary: Global Security Bioinformatics group. Grew from summer intern to Data Scientist while completing my M.S. part-time.
   bullets:
     - Ran metagenomic analyses and maintained the reference database (viral, bacterial, plant and other genomes from NCBI) behind the Livermore Metagenomics Analysis Toolkit (LMAT).
     - Extended LMAT with statistical features and plots.
@@ -44,5 +44,5 @@
   role: Data Analytics Instructor · Biostatistics Mentor Teacher
   dates: 2012 – 2019
   bullets:
-    - Data Analytics teaching assistant and statistics instructor for a 25-student UC Davis bootcamp cohort (Trilogy Education) — SQL/Postgres, Tableau, Python, R, VBA, hypothesis testing and data storytelling.
+    - Data Analytics teaching assistant and statistics instructor for a 25-student UC Davis bootcamp cohort (Trilogy Education). Taught SQL/Postgres, Tableau, Python, R, VBA, hypothesis testing and data storytelling.
     - Two years as Biostatistics Mentor Teacher at the Saturday Research Academy, Universidad Metropolitana (San Juan, PR).
