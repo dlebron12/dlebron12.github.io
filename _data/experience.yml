@@ -40,6 +40,15 @@
     - Extended LMAT with statistical features and plots.
     - Collaborated with the FDA, NASA and Japanese public-health researchers; co-authored papers in Nature Communications and PLOS ONE.
 
+- org: University of Alabama at Birmingham
+  role: Research Assistant · Research Intern
+  dates: Jun 2013 – Feb 2015
+  summary: Section of Statistical Genetics, Department of Public Health. Research Intern in Summer 2013, then Research Assistant from Summer 2014, continuing remotely through February 2015.
+  bullets:
+    - Built logistic regression, CNN and SVM models in R to predict type 2 diabetes risk from Framingham Heart Study clinical and genetic data. First-author paper in Frontiers in Genetics (2015).
+    - Estimated genetic variance in BMI associated with the FTO gene in young adults, using G-BLUP mixed models on genetic and physical data from 5,000+ participants (TIGER study).
+    - Presented results at the UAB Research Expo (2013, third place for Best Poster in Public Health; 2014) and at national conferences.
+
 - org: Teaching
   role: Data Analytics Instructor · Biostatistics Mentor Teacher
   dates: 2012 – 2019
