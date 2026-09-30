@@ -18,14 +18,14 @@
   link: https://github.com/dlebron12/eSHAPE_customer_toolkit
   link_label: See the toolkit code
 
-- title: Building a Quality Control function from scratch
+- title: Developing and leading a QC team
   org: Eclipse Bioinnovations
   tags: [Leadership, QC, Process]
   problem: >-
     Kits were shipping without a formal QC process, so there was no clear
     statement of where the product performs best, and no early warning when a batch didn't.
   action: >-
-    Led the creation of the QC team, built a QC pipeline with two bioinformatics
+    Developed and led the QC team, built a QC pipeline with two bioinformatics
     scientists, defined performance boundaries, and wrote the SOPs.
   result: >-
     A documented, repeatable QC process that protected customer satisfaction and

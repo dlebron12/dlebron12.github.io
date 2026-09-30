@@ -14,7 +14,7 @@ I'm a first-generation college graduate who fell for mathematics early. As a hig
 
 I earned a **B.S. in Applied Mathematics** (Universidad Metropolitana, 2015) with a first-author paper in statistical genetics and four summer research internships in the U.S. behind me. I then completed an **M.S. in Statistics (Data Science track) at UC Davis** while working full time as a data scientist at **Lawrence Livermore National Laboratory**.
 
-Since then I've spent eight years in data science: at LLNL in metagenomics and biosecurity, then in biotech product development at **Tecan Genomics** and **Eclipse Bioinnovations**, where I owned the eSHAPE RNA structure product line, led bioinformatics teams and built a QC function. That work also made me a co-inventor on a [patent application](https://patents.justia.com/patent/20260250666) published in August 2026.
+Since then I've spent eight years in data science: at LLNL in metagenomics and biosecurity, then in biotech product development at **Tecan Genomics** and **Eclipse Bioinnovations**, where I owned the eSHAPE RNA structure product line, led bioinformatics scientists, data scientists and DevOps teams, and developed and led a QC team. That work also made me a co-inventor on a [patent application](https://patents.justia.com/patent/20260250666) published in August 2026.
 
 ## What I care about
 
