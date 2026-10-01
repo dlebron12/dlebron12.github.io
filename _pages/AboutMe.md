@@ -61,4 +61,4 @@ I'm looking for my next role in **data science, analytics, or product/project ma
 
 English and Spanish, both fluent.
 
-I'd love to hear from you, so [get in touch](mailto:{{ site.email }}).
+I'd love to hear from you, so [get in touch](mailto:{{ site.email }}). You can also [download my full CV]({{ '/files/Dayanara_LebronAldea_CV.pdf' | relative_url }}) (PDF).
