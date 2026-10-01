@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="Flag of Puerto Rico">
+<rect width="900" height="600" fill="#ED0000"/>
+<rect y="120" width="900" height="120" fill="#fff"/>
+<rect y="360" width="900" height="120" fill="#fff"/>
+<path d="M0 0 L519.6 300 L0 600 Z" fill="#0050F0"/>
+<polygon points="173.2,195.0 196.8,267.6 273.1,267.6 211.3,312.4 234.9,384.9 173.2,340.1 111.5,384.9 135.1,312.4 73.3,267.6 149.6,267.6" fill="#fff"/>
+</svg>

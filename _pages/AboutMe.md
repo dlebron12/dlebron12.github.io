@@ -4,7 +4,7 @@ title: About Me
 eyebrow: ¡Wepa! Welcome
 intro: >-
   Data scientist by trade, statistician by training, and a teacher at heart.
-  Born and raised in Puerto Rico.
+  Born and raised in Puerto Rico. <img class="flag" src="/images/pr-flag.svg" alt="Puerto Rico flag" width="27" height="18">
 permalink: /about/
 ---
 
