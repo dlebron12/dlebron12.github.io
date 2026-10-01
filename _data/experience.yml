@@ -34,7 +34,7 @@
 - org: Lawrence Livermore National Laboratory
   role: Data Scientist · Computation Intern
   dates: 2015 – 2019
-  summary: Global Security Bioinformatics group. Grew from summer intern to Data Scientist while completing my M.S. part-time.
+  summary: Global Security Bioinformatics group. Grew from summer intern to Data Scientist while completing my M.S. full time.
   bullets:
     - Ran metagenomic analyses and maintained the reference database (viral, bacterial, plant and other genomes from NCBI) behind the Livermore Metagenomics Analysis Toolkit (LMAT).
     - Extended LMAT with statistical features and plots.
